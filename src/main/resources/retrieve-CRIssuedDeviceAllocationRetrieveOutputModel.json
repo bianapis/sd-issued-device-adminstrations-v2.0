@@ -1,0 +1,23 @@
+{
+  "issuedDeviceAllocationInstanceReportRecord" : {
+    "issuedDeviceAllocationInstanceReportType" : "issuedDeviceAllocationInstanceReportType",
+    "issuedDeviceAllocationInstanceReport" : {},
+    "issuedDeviceAllocationInstanceReportData" : "issuedDeviceAllocationInstanceReportData"
+  },
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "739621",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "731042",
+    "issueDate" : "09-22-2018",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "issuedDeviceAllocationRetrieveActionTaskRecord" : {},
+  "issuedDeviceAllocationRetrieveActionResponse" : "issuedDeviceAllocationRetrieveActionResponse",
+  "issuedDeviceAllocationInstanceAnalysis" : {
+    "issuedDeviceAllocationInstanceAnalysisReportType" : "issuedDeviceAllocationInstanceAnalysisReportType",
+    "issuedDeviceAllocationInstanceAnalysisData" : "issuedDeviceAllocationInstanceAnalysisData",
+    "issuedDeviceAllocationInstanceAnalysisReport" : {}
+  },
+  "issuedDeviceAllocationRetrieveActionTaskReference" : "IDARATR758254"
+}

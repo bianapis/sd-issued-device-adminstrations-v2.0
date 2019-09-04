@@ -1,0 +1,20 @@
+{
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "703217",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "771734",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "deviceAssignmentUpdateActionTaskReference" : "IDAUATR739709",
+  "updateResponseRecord" : {},
+  "deviceAssignmentInstanceRecord" : {
+    "issuedDeviceConfiguration" : "issuedDeviceConfiguration",
+    "usageLog" : "usageLog",
+    "customerCustomizationReference" : "789445",
+    "versionNumber" : "versionNumber",
+    "deliverymethod" : "deliverymethod",
+    "issueLocation" : "issueLocation"
+  },
+  "deviceAssignmentUpdateActionTaskRecord" : {}
+}

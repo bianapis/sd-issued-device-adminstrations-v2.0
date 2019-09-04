@@ -1,0 +1,24 @@
+{
+  "chequesAssignmentInstanceRecord" : {},
+  "chequesAssignmentInstanceReport" : {
+    "chequesAssignmentInstanceReportRecord" : {},
+    "chequesAssignmentInstanceReport" : {},
+    "chequesAssignmentInstanceReportParameters" : "chequesAssignmentInstanceReportParameters",
+    "chequesAssignmentInstanceReportType" : "chequesAssignmentInstanceReportType"
+  },
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "709814",
+    "customerReference" : "790013",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "chequesAssignmentRetrieveActionResponse" : "chequesAssignmentRetrieveActionResponse",
+  "chequesAssignmentRetrieveActionTaskReference" : "CARATR747359",
+  "chequesAssignmentInstanceAnalysis" : {
+    "chequesAssignmentInstanceAnalysisRecord" : {},
+    "chequesAssignmentInstanceAnalysisParameters" : "chequesAssignmentInstanceAnalysisParameters",
+    "chequesAssignmentInstanceAnalysisReportType" : "chequesAssignmentInstanceAnalysisReportType",
+    "chequesAssignmentInstanceAnalysisReport" : {}
+  },
+  "chequesAssignmentRetrieveActionTaskRecord" : {}
+}

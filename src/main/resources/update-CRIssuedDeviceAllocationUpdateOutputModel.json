@@ -1,0 +1,13 @@
+{
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "732241",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "741510",
+    "issueDate" : "09-22-2018",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "updateResponseRecord" : {},
+  "issuedDeviceAllocationUpdateActionTaskRecord" : {},
+  "issuedDeviceAllocationUpdateActionTaskReference" : "IDAUATR730156"
+}

@@ -1,0 +1,12 @@
+{
+  "issuedDeviceAllocationInstanceReference" : "IDAIR770359",
+  "issuedDeviceAllocationInstanceStatus" : "issuedDeviceAllocationInstanceStatus",
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "713389",
+    "associatedPermissions" : "associatedPermissions",
+    "issueDate" : "09-22-2018",
+    "validFromToDate" : "09-22-2018"
+  },
+  "issuedDeviceAllocationProvideActionRecord" : {},
+  "issuedDeviceAllocationProvideActionReference" : "IDAPAR747705"
+}

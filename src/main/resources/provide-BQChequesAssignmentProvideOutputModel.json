@@ -1,0 +1,14 @@
+{
+  "chequesAssignmentProvideActionRecord" : {},
+  "chequesAssignmentInstanceRecord" : {},
+  "chequesAssignmentProvideActionReference" : "CAPAR735115",
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "706821",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "769831",
+    "issueDate" : "09-22-2018",
+    "validFromToDate" : "09-22-2018"
+  },
+  "chequesAssignmentInstanceStatus" : "chequesAssignmentInstanceStatus",
+  "chequesAssignmentInstanceReference" : "CAIR744063"
+}

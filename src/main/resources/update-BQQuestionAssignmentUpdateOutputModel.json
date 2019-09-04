@@ -1,0 +1,16 @@
+{
+  "questionAssignmentInstanceRecord" : {
+    "requestText" : "requestText",
+    "usageLog" : "usageLog"
+  },
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "736026",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "798943",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "updateResponseRecord" : {},
+  "questionAssignmentUpdateActionTaskReference" : "QAUATR798912",
+  "questionAssignmentUpdateActionTaskRecord" : {}
+}

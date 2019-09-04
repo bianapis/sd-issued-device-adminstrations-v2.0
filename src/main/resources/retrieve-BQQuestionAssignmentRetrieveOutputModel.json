@@ -1,0 +1,31 @@
+{
+  "questionAssignmentInstanceAnalysis" : {
+    "questionAssignmentInstanceAnalysisParameters" : "questionAssignmentInstanceAnalysisParameters",
+    "questionAssignmentInstanceAnalysisRecord" : {},
+    "questionAssignmentInstanceAnalysisReport" : {},
+    "questionAssignmentInstanceAnalysisReportType" : "questionAssignmentInstanceAnalysisReportType"
+  },
+  "questionAssignmentInstanceRecord" : {
+    "requestText" : "requestText",
+    "usageLog" : "usageLog",
+    "recentValues" : "recentValues",
+    "responseText" : "responseText",
+    "formatRules" : "formatRules"
+  },
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "724495",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "790600",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "questionAssignmentRetrieveActionTaskRecord" : {},
+  "questionAssignmentRetrieveActionResponse" : "questionAssignmentRetrieveActionResponse",
+  "questionAssignmentRetrieveActionTaskReference" : "QARATR719243",
+  "questionAssignmentInstanceReport" : {
+    "questionAssignmentInstanceReportType" : "questionAssignmentInstanceReportType",
+    "questionAssignmentInstanceReportParameters" : "questionAssignmentInstanceReportParameters",
+    "questionAssignmentInstanceReportRecord" : {},
+    "questionAssignmentInstanceReport" : {}
+  }
+}

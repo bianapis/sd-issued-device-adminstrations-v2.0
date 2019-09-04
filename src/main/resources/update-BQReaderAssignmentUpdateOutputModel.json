@@ -1,0 +1,18 @@
+{
+  "readerAssignmentUpdateActionTaskRecord" : {},
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "752396",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "745276",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "updateResponseRecord" : {},
+  "readerAssignmentInstanceRecord" : {
+    "issuedDeviceConfiguration" : "issuedDeviceConfiguration",
+    "usageLog" : "usageLog",
+    "versionNumber" : "versionNumber",
+    "issueLocation" : "issueLocation"
+  },
+  "readerAssignmentUpdateActionTaskReference" : "RAUATR718537"
+}

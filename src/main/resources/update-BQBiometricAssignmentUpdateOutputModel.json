@@ -1,0 +1,16 @@
+{
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "712077",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "783222",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "biometricAssignmentUpdateActionTaskReference" : "BAUATR795156",
+  "biometricAssignmentUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "biometricAssignmentInstanceRecord" : {
+    "biometricType" : "biometricType",
+    "biometricRegisteredDetail" : "biometricRegisteredDetail"
+  }
+}

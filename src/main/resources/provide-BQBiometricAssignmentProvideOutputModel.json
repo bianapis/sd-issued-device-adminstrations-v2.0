@@ -1,0 +1,16 @@
+{
+  "biometricAssignmentProvideActionRecord" : {},
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "768609",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "708441",
+    "issueDate" : "09-22-2018",
+    "validFromToDate" : "09-22-2018"
+  },
+  "biometricAssignmentProvideActionReference" : "BAPAR731535",
+  "biometricAssignmentInstanceStatus" : "biometricAssignmentInstanceStatus",
+  "biometricAssignmentInstanceRecord" : {
+    "biometricType" : "biometricType"
+  },
+  "biometricAssignmentInstanceReference" : "BAIR791141"
+}

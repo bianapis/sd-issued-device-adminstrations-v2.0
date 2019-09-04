@@ -1,0 +1,9 @@
+{
+  "deviceAssignmentCaptureRecordReference" : "DACRR797581",
+  "deviceAssignmentInstanceRecord" : {
+    "usageLog" : "usageLog"
+  },
+  "deviceAssignmentCaptureActionTaskReference" : "IDACATR790502",
+  "deviceAssignmentCaptureActionTaskRecord" : {},
+  "captureResponseRecord" : {}
+}

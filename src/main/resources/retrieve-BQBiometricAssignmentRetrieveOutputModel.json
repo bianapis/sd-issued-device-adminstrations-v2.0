@@ -1,0 +1,28 @@
+{
+  "biometricAssignmentInstanceAnalysis" : {
+    "biometricAssignmentInstanceAnalysisReportType" : "biometricAssignmentInstanceAnalysisReportType",
+    "biometricAssignmentInstanceAnalysisReport" : {},
+    "biometricAssignmentInstanceAnalysisRecord" : {},
+    "biometricAssignmentInstanceAnalysisParameters" : "biometricAssignmentInstanceAnalysisParameters"
+  },
+  "biometricAssignmentRetrieveActionTaskReference" : "BARATR704406",
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "734927",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "737591",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "biometricAssignmentRetrieveActionResponse" : "biometricAssignmentRetrieveActionResponse",
+  "biometricAssignmentInstanceReport" : {
+    "biometricAssignmentInstanceReportType" : "biometricAssignmentInstanceReportType",
+    "biometricAssignmentInstanceReportParameters" : "biometricAssignmentInstanceReportParameters",
+    "biometricAssignmentInstanceReport" : {},
+    "biometricAssignmentInstanceReportRecord" : {}
+  },
+  "biometricAssignmentInstanceRecord" : {
+    "biometricType" : "biometricType",
+    "biometricRegisteredDetail" : "biometricRegisteredDetail"
+  },
+  "biometricAssignmentRetrieveActionTaskRecord" : {}
+}

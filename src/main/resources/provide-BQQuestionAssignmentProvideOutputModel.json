@@ -1,0 +1,18 @@
+{
+  "questionAssignmentInstanceRecord" : {
+    "requestText" : "requestText",
+    "recentValues" : "recentValues",
+    "formatRules" : "formatRules"
+  },
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "786789",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "712328",
+    "issueDate" : "09-22-2018",
+    "validFromToDate" : "09-22-2018"
+  },
+  "questionAssignmentProvideActionRecord" : {},
+  "questionAssignmentProvideActionReference" : "QAPAR768259",
+  "questionAssignmentInstanceStatus" : "questionAssignmentInstanceStatus",
+  "questionAssignmentInstanceReference" : "QAIR722653"
+}

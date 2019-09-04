@@ -1,0 +1,30 @@
+{
+  "readerAssignmentRetrieveActionTaskRecord" : {},
+  "readerAssignmentRetrieveActionResponse" : "readerAssignmentRetrieveActionResponse",
+  "issuedDeviceAllocationInstanceRecord" : {
+    "productInstanceReference" : "768264",
+    "associatedPermissions" : "associatedPermissions",
+    "customerReference" : "742752",
+    "issuedDeviceType" : "issuedDeviceType",
+    "validFromToDate" : "09-22-2018"
+  },
+  "readerAssignmentInstanceAnalysis" : {
+    "readerAssignmentInstanceAnalysisParameters" : "readerAssignmentInstanceAnalysisParameters",
+    "readerAssignmentInstanceAnalysisReport" : {},
+    "readerAssignmentInstanceAnalysisReportType" : "readerAssignmentInstanceAnalysisReportType",
+    "readerAssignmentInstanceAnalysisRecord" : {}
+  },
+  "readerAssignmentInstanceReport" : {
+    "readerAssignmentInstanceReportParameters" : "readerAssignmentInstanceReportParameters",
+    "readerAssignmentInstanceReportRecord" : {},
+    "readerAssignmentInstanceReport" : {},
+    "readerAssignmentInstanceReportType" : "readerAssignmentInstanceReportType"
+  },
+  "readerAssignmentInstanceRecord" : {
+    "issuedDeviceConfiguration" : "issuedDeviceConfiguration",
+    "usageLog" : "usageLog",
+    "versionNumber" : "versionNumber",
+    "issueLocation" : "issueLocation"
+  },
+  "readerAssignmentRetrieveActionTaskReference" : "RARATR751831"
+}
